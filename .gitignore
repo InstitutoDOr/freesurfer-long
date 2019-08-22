@@ -1,0 +1,9 @@
+*~
+*.x
+*.log
+*.out
+nohup*
+error*
+Fernanda*
+.env
+
